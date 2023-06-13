@@ -4,7 +4,7 @@
 <br/>
 
 <h1 id="header" align="center">
-    <img src="./duck_binary.gif" height="150">
+    <img src="./duck_binary.gif" height="150"> </br>
     Hi, I'm ZIYI!
 </h1>
 
