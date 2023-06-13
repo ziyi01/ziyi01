@@ -3,11 +3,9 @@
 <!-- Title and Logo -->
 <br/>
 
-<div align="center">
-    <img src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif" height="150">
-</div>
 <h1 id="header" align="center">
-Hi, I'm ZIYI!
+    <img src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif" height="150">
+    Hi, I'm ZIYI!
 </h1>
 
 ### :running: About me :computer:
