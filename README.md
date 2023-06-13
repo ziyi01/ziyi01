@@ -4,7 +4,7 @@
 <br/>
 
 <h1 id="header" align="center">
-    <img src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif" height="150">
+    <img src="./duck_binary.gif" height="150">
     Hi, I'm ZIYI!
 </h1>
 
@@ -14,9 +14,9 @@
 
 I'm currently studying Computer Science at KTH :school: .
 
-- :art: Painting and :camera Photography is what I do at the side
-- :musical_keyboard: I'm quite experienced with playing the piano
-- :zap: I'm currently exploring game development
+- :art: Painting and :camera: Photography is what I do on the side.
+- :musical_keyboard: I also love playing the piano
+- :zap: Currently learning more about game development
 
 ---
 
