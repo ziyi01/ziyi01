@@ -1,10 +1,11 @@
 <a name="readme-top"></a>
 
 <!-- Title and Logo -->
-<div align="center">
-    <img src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif" height="200">
-</div>
+<br/>
 
+<div align="center">
+    <img src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif" height="150">
+</div>
 <h1 id="header" align="center">
 Hi, I'm ZIYI!
 </h1>
