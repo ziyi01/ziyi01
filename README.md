@@ -52,7 +52,7 @@ I'm currently studying Computer Science at KTH :school: .
 
 ### :mailbox_with_mail: Reach me
 
-* <a href="mailto:julwan@kth.se"/>
+* <a href="mailto:julwan@kth.se">julwan@kth.se</a>
 * [![Linkedin][linkedin-shield]][linkedin-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
