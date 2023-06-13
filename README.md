@@ -22,28 +22,31 @@ I'm currently studying Computer Science at KTH :school: .
 ---
 
 ### :wrench: Languages and more
-![c](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)
-![cpp](https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg)
-![cs](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)
-![figma](https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg)
-![github](https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg)
-![go](https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg)
-![haskell](https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg)
-![html](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
-![ai](https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg)
-![java](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)
-![javascript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
-![latex](https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg)
-![matlab](https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg)
-![node](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg)
-![npm](https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg)
-![ps](https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg)
-![psql](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg)
-![python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
-![react](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)
-![unity](https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg)
-![vscode](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg)
-![vue](https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg)
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="30"/>
+</div>
+
 
 ---
 
