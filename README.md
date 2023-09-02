@@ -4,7 +4,6 @@
 <br/>
 
 <h1 id="header" align="center">
-    <img src="./duck_binary.gif" height="150"> </br>
     Hi, I'm ZIYI!
 </h1>
 
@@ -56,6 +55,7 @@ I'm currently studying Computer Science at KTH :school: .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<img src="./duck_binary.gif" height="150"> </br>
 
 <!-- Links -->
 [linkedin-shield]:https://camo.githubusercontent.com/12d696c039b7e718da27138d78a1a5e2dadcb331ad441652c1ce2df0d8f2ef41/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696e6b6564496e26636f6c6f723d304136364332266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d464646464646266c6162656c3d
