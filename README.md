@@ -19,7 +19,7 @@ I'm currently studying Computer Science at KTH :school: .
 
 ---
 
-### :wrench: Languages and more
+### :wrench: Languages and frameworks
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="30"/>
