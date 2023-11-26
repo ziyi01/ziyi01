@@ -13,9 +13,9 @@
 
 I'm currently studying Computer Science at KTH :school: .
 
-- :art: Painting and :camera: Photography is what I do on the side.
-- :musical_keyboard: I also love playing the piano
-- :zap: Currently learning more about game development
+- :art: Painting/Graphic Design, :camera: Photography and :musical_score: Music is what I do on the side.
+- :musical_keyboard: I love playing the piano
+- :zap: Currently learning more about [game development](https://ziyi01.itch.io/). 
 
 ---
 
@@ -48,9 +48,18 @@ I'm currently studying Computer Science at KTH :school: .
 
 ---
 
-### :mailbox_with_mail: Reach me 
+### :black_nib: Graphic design
 
-* <a href="mailto:julwan@kth.se">julwan@kth.se</a>
+<div align="center">
+    <img src="./art/Magenta/Logo.png" height="150"/>
+    <img src="./art/Magenta/Banner.png" height="150"/>
+</div>
+
+<div align="center">
+    <img src="./art/STUDS/Logo.png" height="150"/>
+    <img src="./art/STUDS/BW.png" height="150"/>
+    <img src="./art/STUDS/Studs-long.png" height="150"/>
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -58,6 +67,3 @@ I'm currently studying Computer Science at KTH :school: .
     <img src="./duck_binary.gif" height="150"> </br>
 </h1>
 
-<!-- Links -->
-[linkedin-shield]:https://camo.githubusercontent.com/12d696c039b7e718da27138d78a1a5e2dadcb331ad441652c1ce2df0d8f2ef41/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696e6b6564496e26636f6c6f723d304136364332266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d464646464646266c6162656c3d
-[linkedin-url]:linkedin.com/julia-v-wang/
