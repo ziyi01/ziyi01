@@ -7,7 +7,7 @@
     Hi, I'm ZIYI!
 </h1>
 
-### :running: About me :computer:
+### About me
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=ziyi01&theme=transparent&mode=weekly&card_width=500&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
