@@ -56,12 +56,9 @@ I'm currently studying Computer Science at KTH :school: .
 </div>
 
 <div align="center">
-    <img src="./art/STUDS/Logo.png" height="150"/>
     <img src="./art/STUDS/BW.png" height="150"/>
     <img src="./art/STUDS/Studs-long.png" height="150"/>
 </div>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h1 align="center">
     <img src="./duck_binary.gif" height="150"> </br>
