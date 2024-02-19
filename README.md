@@ -15,7 +15,7 @@ I'm currently studying Computer Science at KTH :school: .
 
 - :art: Painting/Graphic Design, :camera: Photography and :musical_score: Music is what I do on the side.
 - :musical_keyboard: I love playing the piano
-- :zap: Currently learning more about [game development](https://ziyi01.itch.io/). 
+- :zap: Currently learning more about game development. 
 
 ---
 
