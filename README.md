@@ -19,36 +19,33 @@ I'm currently studying Computer Science at KTH :school:. I'm also a TA for intro
 
 ---
 
-### :wrench: Languages and frameworks
+### :wrench: Languages, frameworks and tools
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="30"/>
 </div>
-
 
 ---
 
-### :black_nib: Graphic design
+### :black_nib: Graphics
 
 <div align="center">
     <img src="./art/Magenta/Logo.png" height="150"/>
