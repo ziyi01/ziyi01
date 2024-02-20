@@ -60,6 +60,8 @@ I'm currently studying Computer Science at KTH :school:. I'm also a TA for intro
     <img src="./art/STUDS/Studs-long.png" height="150"/>
 </div>
 
+---
+
 <h1 align="center">
     <img src="./duck_binary.gif" height="150"> </br>
 </h1>
