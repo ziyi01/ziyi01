@@ -39,7 +39,6 @@ I'm currently studying Computer Science at KTH :school:. I'm also a TA for intro
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="30"/>
 </div>
 
