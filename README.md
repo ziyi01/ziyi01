@@ -11,7 +11,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=ziyi01&theme=transparent&mode=weekly&card_width=500&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
-I'm currently studying Computer Science at KTH :school:. I'm also a TA for introductory web development.
+I'm currently studying Computer Science at KTH :school:. I'm also a TA in DH2642 and DM1595 at KTH, teaching the basics to frontend development.
 
 - :art: Painting/Graphic Design, :camera: Photography and :musical_score: Music is what I do on the side.
 - :musical_keyboard: I love playing the piano
