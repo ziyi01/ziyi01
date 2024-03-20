@@ -4,7 +4,7 @@
 <br/>
 
 <h1 id="header" align="center">
-    Hi, I'm ZIYI!
+    Hi, I'm Julia!
 </h1>
 
 ### About me
