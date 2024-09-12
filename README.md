@@ -9,9 +9,9 @@
 
 ### About me
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=ziyi01&theme=transparent&mode=weekly&card_width=500&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=ziyi01&theme=transparent&mode=weekly&card_width=500&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats) -->
 
-I'm currently studying Computer Science at KTH :school:. I''ve been a TA in DH2642 and DM1595 at KTH, teaching about the fundamentals of JavaScript and SQL.
+I'm currently studying Computer Science at KTH :school:. I''ve been a TA in DH2642 and DM1595 at KTH, teaching the fundamentals of JavaScript and SQL.
 
 Hobbies:
 - :art: Painting/Graphic Design, camera: Photography
@@ -21,6 +21,8 @@ Hobbies:
 ---
 
 ### :wrench: Languages, frameworks and tools
+This contains a subset of the frameworks and languages I've used at KTH.
+
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="30"/>
@@ -29,7 +31,6 @@ Hobbies:
     <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30"/>
@@ -38,7 +39,4 @@ Hobbies:
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="30"/>
 </div>
