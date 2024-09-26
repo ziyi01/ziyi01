@@ -11,7 +11,9 @@
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=ziyi01&theme=transparent&mode=weekly&card_width=500&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats) -->
 
-I'm currently studying Computer Science at KTH :school:. I''ve been a TA in DH2642 and DM1595 at KTH, teaching the fundamentals of JavaScript and SQL.
+I'm attending the Computer Science Master's at KTH :school: with the track Cognitive Systems, Conversational Systems.
+
+Also: I was a TA 2023-2024, teaching the students fundamentals of JavaScript/React and SQL.
 
 Hobbies:
 - :art: Painting/Graphic Design, camera: Photography
