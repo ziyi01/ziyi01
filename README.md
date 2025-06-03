@@ -4,26 +4,26 @@
 <br/>
 
 <div id="header" align="center">
-    Hiya, the name is Julia. Welcome to my humble page!
+    Hiya, my name is Julia, and welcome to my humble page!
 </div>
 
 ### About me
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=ziyi01&theme=transparent&mode=weekly&card_width=500&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats) -->
 
-I'm in my second year of the Computer Science Master's at KTH :school: with the track Cognitive Systems, Conversational Systems. I am currently learning about Speech technology, Machine learning and Full stack/DevOps. I also was a teaching assistant from 2023 to 2024, teaching the students fundamentals of JavaScript/React, functional programming and SQL.
+I'm in my second year of the Computer Science Master's at KTH in Sweden :school: with the track Cognitive Systems, Conversational Systems. I am currently learning about Speech technology, Machine learning and Full stack.
 
 **Hobbies**
-- :art: Painting and graphic design
+- :art: Acrylics and ink
 - :camera: Photography
-- :musical_keyboard: The piano and a bit of bass
+- :musical_keyboard: Piano and a bit of bass
 - :flashlight::speaker: Hopefully learning more about light & sound tech
-- :zap: Trying to learn more about game development. 
+- :zap: Trying out game development.
 
 ---
 
 ### :wrench: Languages, frameworks and tools
-This contains a subset of the frameworks and languages I've used at KTH and in my projects.
+This contains a subset of the frameworks and languages I've utilised in my projects.
 
 <!-- Icons taken from: https://github.com/devicons/devicon -->
 
