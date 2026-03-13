@@ -4,21 +4,14 @@
 <br/>
 
 <div id="header" align="center">
-    Hiya, my name is Julia, and welcome to my humble page!
+    Hi, my name is Julia, and welcome to my humble page.
 </div>
 
 ### About me
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=ziyi01&theme=transparent&mode=weekly&card_width=500&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats) -->
 
-I'm in my second year of the Computer Science Master's at KTH in Sweden :school: with the track Cognitive Systems, Conversational Systems. I am currently learning about Speech technology, Machine learning and Full stack.
-
-**Hobbies**
-- :art: Acrylics and ink
-- :camera: Photography
-- :musical_keyboard: Piano and a bit of bass
-- :flashlight::speaker: Hopefully learning more about light & sound tech
-- :zap: Trying out game development.
+I'm currently enrolled in the Computer Science Master's at KTH with the track Cognitive Systems, Conversational Systems. I am currently interested in learning more about speech technology, full-stack development and DevOps.
 
 ---
 
@@ -45,6 +38,15 @@ This contains a subset of the frameworks and languages I've utilised in my proje
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="5%"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="5%"/>
 </div>
+
+---
+
+### Hobbies
+- :art: Acrylics and ink
+- :camera: Photography
+- :musical_keyboard: Piano and a bit of bass
+- :flashlight::speaker: Hopefully learning more about light & sound tech
+- :zap: Trying out game development.
 
 </br>
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
